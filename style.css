@@ -1,0 +1,55 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #f8f8f8;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: white;
+}
+
+header {
+  background-color: #6a1b9a;
+  text-align: center;
+  padding: 1em 0;
+}
+
+header nav ul {
+  list-style: none;
+  padding: 0px;
+}
+
+header nav ul li {
+  display: inline;
+  margin: 0px 15px;
+}
+
+header nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+header nav ul li a:hover {
+  color: aqua;
+  font-size: larger;
+}
+
+#blog {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+  margin: 20px;
+  padding: 1em 0;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+  background-color: #6a1b9a;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  padding: 15px;
+}
